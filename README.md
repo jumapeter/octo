@@ -9,3 +9,6 @@
 > ## This is an H2 in a blockquote
 
 
+![alt text](us_flag_small.png)
+
+![alt text](https://github.com/jumapeter/octo/blob/main/us_flag_small.png)
